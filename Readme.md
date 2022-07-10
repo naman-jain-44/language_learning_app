@@ -1,3 +1,3 @@
-# code 
+# Multiscreen App
 
-It is a multiscreen app which use arrayadapter to show the list of songs and play it accordingly 
+It is a multiscreen app which use arrayadapter to show the list of  differnt words  and play its local language sound .
